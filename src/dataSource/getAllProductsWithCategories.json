@@ -1,0 +1,294 @@
+[
+  {
+    "id": "C1",
+    "name": "Mobile Phones",
+    "labelCount": "50+ iphones and 40+ other phones",
+    "children": [
+      {
+        "name": "Apple",
+        "id": "B1",
+        "children": [
+          {
+            "name": "iPhone 6",
+            "id": "M1",
+            "children": [
+              {
+                "name": "128 GB",
+                "id": "V1_iPhone6_128GB",
+                "price": 2500,
+                "imageUrl": "https://cdn.mos.cms.futurecdn.net/26379107b84cb8ec8e149a64b7a179b8-1200-80.jpg"
+              },
+              {
+                "name": "256 GB",
+                "id": "V2_iPhone6_256GB",
+                "price": 2700,
+                "imageUrl": "https://cdn.mos.cms.futurecdn.net/26379107b84cb8ec8e149a64b7a179b8-1200-80.jpg"
+              },
+              {
+                "name": "64 GB",
+                "price": 2900,
+                "id": "V3_iPhone6_64GB",
+                "imageUrl": "https://cdn.mos.cms.futurecdn.net/26379107b84cb8ec8e149a64b7a179b8-1200-80.jpg"
+              },
+              {
+                "name": "512 GB",
+                "price": 3000,
+                "id": "V4_iPhone6_512GB",
+                "imageUrl": "https://cdn.mos.cms.futurecdn.net/26379107b84cb8ec8e149a64b7a179b8-1200-80.jpg"
+              }
+            ]
+          },
+          {
+            "name": "iPhone X",
+            "id": "M2",
+            "children": [
+              {
+                "name": "64 GB",
+                "price": 2500,
+                "id": "V1_iPhoneX_64GB",
+                "imageUrl": "https://images.expertreviews.co.uk/wp-content/uploads/2023/10/Apple-iPhone-14-Pro-review-11.jpg?width=626&height=352&fit=crop&format=webply"
+              },
+              {
+                "name": "128 GB",
+                "price": 3500,
+                "id": "V2_iPhoneX_128GB",
+                "imageUrl": "https://images.expertreviews.co.uk/wp-content/uploads/2023/10/Apple-iPhone-14-Pro-review-11.jpg?width=626&height=352&fit=crop&format=webply"
+              },
+              {
+                "name": "256 GB",
+                "price": 4500,
+                "id": "V3_iPhoneX_256GB",
+                "imageUrl": "https://images.expertreviews.co.uk/wp-content/uploads/2023/10/Apple-iPhone-14-Pro-review-11.jpg?width=626&height=352&fit=crop&format=webply"
+              },
+              {
+                "name": "512 GB",
+                "price": 6500,
+                "id": "V4_iPhoneX_512GB",
+                "imageUrl": "https://images.expertreviews.co.uk/wp-content/uploads/2023/10/Apple-iPhone-14-Pro-review-11.jpg?width=626&height=352&fit=crop&format=webply"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C2",
+    "name": "Laptops",
+    "labelCount": "100+ macbooks and 600+ other laptops",
+    "children": [
+      {
+        "name": "Dell",
+        "id": "B2",
+        "children": [
+          {
+            "name": "Inspiron 15",
+            "id": "M3",
+            "children": [
+              {
+                "name": "8GB RAM",
+                "price": 2500,
+                "id": "V1_INS15_8GB",
+                "imageUrl": "https://images-cdn.ubuy.co.in/633b51dc5c252565ef17ac89-2022-dell-inspiron-15-3000-3511-15-6.jpg"
+              },
+              {
+                "name": "16GB RAM",
+                "price": 2500,
+                "id": "V2_INS15_16GB",
+                "imageUrl": "https://images-cdn.ubuy.co.in/633b51dc5c252565ef17ac89-2022-dell-inspiron-15-3000-3511-15-6.jpg"
+              },
+              {
+                "name": "32GB RAM",
+                "price": 2500,
+                "id": "V3_INS15_32GB",
+                "imageUrl": "https://images-cdn.ubuy.co.in/633b51dc5c252565ef17ac89-2022-dell-inspiron-15-3000-3511-15-6.jpg"
+              },
+              {
+                "name": "64GB RAM",
+                "price": 2500,
+                "id": "V4_INS15_64GB",
+                "imageUrl": "https://images-cdn.ubuy.co.in/633b51dc5c252565ef17ac89-2022-dell-inspiron-15-3000-3511-15-6.jpg"
+              }
+            ]
+          },
+          {
+            "name": "XPS 13",
+            "id": "M4",
+            "children": [
+              {
+                "name": "256GB SSD",
+                "id": "V1_XPS13_256GB",
+                "price": 2500,
+                "imageUrl": "https://xtra.pk/wp-content/uploads/2023/01/xps_13_plus_9320.jpg"
+              },
+              {
+                "name": "512GB SSD",
+                "id": "V2_XPS13_512GB",
+                "price": 2500,
+                "imageUrl": "https://xtra.pk/wp-content/uploads/2023/01/xps_13_plus_9320.jpg"
+              },
+              {
+                "name": "1TB SSD",
+                "id": "V3_XPS13_1TB",
+                "price": 2500,
+                "imageUrl": "https://xtra.pk/wp-content/uploads/2023/01/xps_13_plus_9320.jpg"
+              },
+              {
+                "name": "2TB SSD",
+                "id": "V4_XPS13_2TB",
+                "price": 2500,
+                "imageUrl": "https://xtra.pk/wp-content/uploads/2023/01/xps_13_plus_9320.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C3",
+    "name": "Watches",
+    "labelCount": "40+ apple watches and 30+ samsung watches",
+    "children": [
+      {
+        "name": "Rolex",
+        "id": "B3",
+        "children": [
+          {
+            "name": "Submariner",
+            "id": "M5",
+            "children": [
+              {
+                "name": "Steel",
+                "id": "V1_SUB_STEEL",
+                "price": 2500,
+                "imageUrl": "https://media.licdn.com/dms/image/D4D12AQFWjk1Y3CFFFQ/article-cover_image-shrink_720_1280/0/1672050110893?e=2147483647&v=beta&t=NuhgqkRwGgtSZzmZcd_0OiVK76cR30OrDeROHlEyGiU"
+              },
+              {
+                "name": "Gold",
+                "id": "V2_SUB_GOLD",
+                "price": 2500,
+                "imageUrl": "https://media.licdn.com/dms/image/D4D12AQFWjk1Y3CFFFQ/article-cover_image-shrink_720_1280/0/1672050110893?e=2147483647&v=beta&t=NuhgqkRwGgtSZzmZcd_0OiVK76cR30OrDeROHlEyGiU"
+              },
+              {
+                "name": "White Gold",
+                "id": "V3_SUB_WHITEG",
+                "price": 2500,
+                "imageUrl": "https://media.licdn.com/dms/image/D4D12AQFWjk1Y3CFFFQ/article-cover_image-shrink_720_1280/0/1672050110893?e=2147483647&v=beta&t=NuhgqkRwGgtSZzmZcd_0OiVK76cR30OrDeROHlEyGiU"
+              },
+              {
+                "name": "Platinum",
+                "id": "V4_SUB_PLATIUM",
+                "price": 2500,
+                "imageUrl": "https://media.licdn.com/dms/image/D4D12AQFWjk1Y3CFFFQ/article-cover_image-shrink_720_1280/0/1672050110893?e=2147483647&v=beta&t=NuhgqkRwGgtSZzmZcd_0OiVK76cR30OrDeROHlEyGiU"
+              }
+            ]
+          },
+          {
+            "name": "Daytona",
+            "id": "M6",
+            "children": [
+              {
+                "name": "Platinum",
+                "id": "V1_DAYT_PLATIUM",
+                "price": 2500,
+                "imageUrl": "https://s3.amazonaws.com/ISHOWIMAGES/rolex/rolex_collection_page_assets/assets_portrait/family_banners_portrait/family-daytona_portrait.jpg"
+              },
+              {
+                "name": "Rose Gold",
+                "id": "V2_DAYT_RGOLD",
+                "price": 2500,
+                "imageUrl": "https://s3.amazonaws.com/ISHOWIMAGES/rolex/rolex_collection_page_assets/assets_portrait/family_banners_portrait/family-daytona_portrait.jpg"
+              },
+              {
+                "name": "Yellow Gold",
+                "id": "V3_DAYT_YGOLD",
+                "price": 2500,
+                "imageUrl": "https://s3.amazonaws.com/ISHOWIMAGES/rolex/rolex_collection_page_assets/assets_portrait/family_banners_portrait/family-daytona_portrait.jpg"
+              },
+              {
+                "name": "Oyster Perpetual",
+                "id": "V4_DAYT_OYSTER",
+                "price": 2500,
+                "imageUrl": "https://s3.amazonaws.com/ISHOWIMAGES/rolex/rolex_collection_page_assets/assets_portrait/family_banners_portrait/family-daytona_portrait.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C4",
+    "name": "TVs",
+    "labelCount": "10+ apple Tv's and 60+ other Tv's",
+    "children": [
+      {
+        "name": "Sony",
+        "id": "B4",
+        "children": [
+          {
+            "name": "Bravia X900H",
+            "id": "M7",
+            "children": [
+              {
+                "name": "55 inches",
+                "id": "V1_BRAVIA_55",
+                "price": 2500,
+                "imageUrl": "https://reviewed-com-res.cloudinary.com/image/fetch/s--D9jSETDX--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/aa53c782212248da/Sony-X900H-Android-Smart-Platform.jpg"
+              },
+              {
+                "name": "65 inches",
+                "id": "V2_BRAVIA_65",
+                "price": 2500,
+                "imageUrl": "https://reviewed-com-res.cloudinary.com/image/fetch/s--D9jSETDX--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/aa53c782212248da/Sony-X900H-Android-Smart-Platform.jpg"
+              },
+              {
+                "name": "75 inches",
+                "id": "V3_BRAVIA_75",
+                "price": 2500,
+                "imageUrl": "https://reviewed-com-res.cloudinary.com/image/fetch/s--D9jSETDX--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/aa53c782212248da/Sony-X900H-Android-Smart-Platform.jpg"
+              },
+              {
+                "name": "85 inches",
+                "id": "V4_BRAVIA_85",
+                "price": 2500,
+                "imageUrl": "https://reviewed-com-res.cloudinary.com/image/fetch/s--D9jSETDX--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/aa53c782212248da/Sony-X900H-Android-Smart-Platform.jpg"
+              }
+            ]
+          },
+          {
+            "name": "OLED A8H",
+            "id": "M8",
+            "children": [
+              {
+                "name": "55 inches",
+                "id": "V1_A8H_55",
+                "price": 2500,
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6MotwI9thixPaPEEslo9k0AoykfLBuVc1TXYfycYOw&s"
+              },
+              {
+                "name": "65 inches",
+                "id": "V2_A8H_65",
+                "price": 2500,
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6MotwI9thixPaPEEslo9k0AoykfLBuVc1TXYfycYOw&s"
+              },
+              {
+                "name": "77 inches",
+                "id": "V3_A8H_77",
+                "price": 2500,
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6MotwI9thixPaPEEslo9k0AoykfLBuVc1TXYfycYOw&s"
+              },
+              {
+                "name": "83 inches",
+                "id": "V4_A8H_83",
+                "price": 2500,
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6MotwI9thixPaPEEslo9k0AoykfLBuVc1TXYfycYOw&s"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
